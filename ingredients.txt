@@ -1,4 +1,4 @@
-* 1 tps something
+* 1/2 tps something
 * 2 avocados
 * 1 lime
 * 1 tsp salt
